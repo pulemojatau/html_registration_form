@@ -1,6 +1,6 @@
 # html_registration_form
 
-<img src="https://github.com/pulemojatau/html_registration_form/blob/main/screen.jpg" alt="form Screenshot" width="300" height="900"/> 
+<img src="https://github.com/pulemojatau/html_registration_form/blob/main/screen.jpg" alt="form Screenshot" width="400" height="900"/> 
 
 This project is part of the freeCodeCamp CSS course([Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)), where I built a signup page using HTML forms. The project focuses on controlling user input, using various form elements like text fields, checkboxes, radio buttons, and file uploads. It also incorporates CSS to style the form for an improved user experience.
 
